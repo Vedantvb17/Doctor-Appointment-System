@@ -1,4 +1,3 @@
-import React from "react";
 import { assets } from "../assets/assets_frontend/assets";
 
 const Footer = () => {
@@ -9,10 +8,7 @@ const Footer = () => {
         <div>
           <img className="mb-5 w-40" src={assets.logo} alt="" />
           <p className="w-full md:w-2/3 text-gray-600 leading-6">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate
-            dignissimos, sunt pariatur, a, molestiae adipisci quo numquam ea
-            eveniet veritatis obcaecati hic quas laudantium. Suscipit temporibus
-            libero repudiandae ab omnis.
+            Book appointments with trusted doctors easily and securely. Your health, our priority.
           </p>
         </div>
 
